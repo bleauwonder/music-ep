@@ -8,7 +8,7 @@ export default function Home() {
       <Link to="contact/">Contact</Link>
       <Header headerText="Elyza Bleau" />
       <p>Haunted EP</p>
-      <img src="https://source.unsplash.com/random/400x200" alt="" />
+      <img src="/images/001-Mother-and-Lillian.jpg"/>
     </div>
   )
 }
