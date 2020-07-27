@@ -20,7 +20,9 @@
     "react-dom": "^16.13.1",
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
-    "typography-theme-fairy-gates": "^0.16.19"
+    "typography-theme-fairy-gates": "^0.16.19",
+    "typography-theme-noriega": "^0.16.19",
+    "typography-theme-stern-grove": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "2.0.5"
