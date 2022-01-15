@@ -18,7 +18,7 @@
     "gatsby": "^2.24.11",
     "gatsby-plugin-typography": "^2.5.10",
     "node-fetch": "^2.6.1",
-    "node-forge": "^0.10.0",
+    "node-forge": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-typography": "^0.16.19",
